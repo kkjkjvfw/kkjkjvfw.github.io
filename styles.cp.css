@@ -1,0 +1,94 @@
+header {
+    background-color: #02d1ff;
+    color: white;
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 90%;
+    z-index: 10;
+}
+body{
+    width: 60%;
+}
+#tarjeta {
+    border: solid 2px;
+    height: 500px;
+    width: 530px;
+    border-radius: 10px;
+}
+
+#Educacion {
+    border: solid 2px;
+    position: relative;
+    top: 10px;
+    width: 530px;
+    border-radius: 10px;
+
+}
+
+#barra {
+    padding: 5%;
+    background-color: aqua;
+    border-radius: 6px;
+    left: 50px;
+    height: px;
+}
+#Conexiones{
+    border: solid 2px;
+    position: relative;
+    top: -610px;
+    width: 600px;
+    left: 550px;
+}
+
+
+#Solicitud{
+    border: solid 2px;
+    position: relative;
+    top: -570px;
+    width: 600px;
+    left: 550px;
+}
+
+#imagen {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    height: 200px;
+    width: 200px;
+    position: relative;
+    top: -20px;
+    left: 20px;
+    border: solid 2px rgb(0, 0, 0);
+}
+
+header nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+header {
+    text-decoration: none;
+    color: white;
+    font-size: 16px padding: 10px;
+}
+
+.redondear {
+    border: solid 4px #ffffff;
+    border-radius: 100%;
+}
+
+body {
+    background-color: rgba(60, 65, 68, 0.987);
+
+}
+
+.continer {
+    display: grid;
+    background-color: aqua;
+
+
+}
